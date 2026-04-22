@@ -1,0 +1,9 @@
+line_id,plant_id,plant_name,product_family,commissioning_year,shifts_per_day,oee_target,availability_target,performance_target,quality_target
+LN-01,USN_NORD,Usine Nord – Valenciennes,Boîtiers plastique,2015,3,0.79,0.9,0.92,0.995
+LN-02,USN_NORD,Usine Nord – Valenciennes,Faisceaux câbles,2019,3,0.79,0.9,0.92,0.995
+LN-03,USN_NORD,Usine Nord – Valenciennes,Connecteurs,2017,3,0.79,0.9,0.92,0.995
+LN-04,USN_NORD,Usine Nord – Valenciennes,Modules électroniques,2021,3,0.79,0.9,0.92,0.995
+LS-01,USN_SUD,Usine Sud – Bordeaux,Capots aluminium,2019,3,0.75,0.9,0.92,0.995
+LS-02,USN_SUD,Usine Sud – Bordeaux,Joints d'étanchéité,2015,3,0.75,0.9,0.92,0.995
+LS-03,USN_SUD,Usine Sud – Bordeaux,Éléments de structure,2021,3,0.75,0.9,0.92,0.995
+LS-04,USN_SUD,Usine Sud – Bordeaux,Assemblage final,2019,3,0.75,0.9,0.92,0.995
